@@ -8,9 +8,9 @@
 
 - 🔭 Engineer at <a href="https://www.ltimindtree.com/">LTIMindtree</a>
 
-- 🌱 I’m currently learning **GSAP , Tailwind , MongoDb ,Python Libraries**
+- 🌱 I’m currently learning **GSAP and exploring Python Libraries**
 
-- 👯 I’m looking to collaborate on **Web development projects.**
+- 👯 I’m love to derive **meaningful insights.**
 
 - 🤝 I’m looking for help with **Advanced database concepts.**
 
