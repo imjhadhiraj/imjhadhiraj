@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imjhadhiraj" target="blank"><img src="https://img.shields.io/twitter/follow/imjhadhiraj?logo=twitter&style=for-the-badge" alt="imjhadhiraj" /></a> </p>
 
-- 🔭 I’m currently intern at <a href="https://www.theaprajita.in/">Aprajita Foundation</a>
+- 🔭 I’m currently intern at <a href="https://www.ltimindtree.com/">LTIMindtree</a>
 
 - 🌱 I’m currently learning **GSAP , Tailwind , MongoDb ,Python Libraries**
 
